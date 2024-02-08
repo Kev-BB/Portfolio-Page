@@ -5,21 +5,21 @@ const callouts = [
       description: 'Collaborative Project Showcasing Graduated Students',
       imageSrc: 'graduation-project.png',
       imageAlt: 'Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug.',
-      href: '#',
+      href: 'https://graduation-project-flame.vercel.app/',
     },
     {
       name: 'LogosSphere',
       description: 'English Dictionary App',
       imageSrc: 'logosSphere.png',
       imageAlt: 'Wood table with porcelain mug, leather journal, brass pen, leather key ring, and a houseplant.',
-      href: '#',
+      href: 'https://logos-sphere.vercel.app/',
     },
     {
       name: 'Google Landing Page Clone',
       description: "Recreating Google's Landing Page",
       imageSrc: 'google-landing-page.png',
       imageAlt: 'Collection of four insulated travel bottles on wooden shelf.',
-      href: '#',
+      href: 'https://kev-bb.github.io/Google-Landing-Page/',
     },
   ]
   
@@ -41,7 +41,7 @@ const callouts = [
                     />
                   </div>
                   <h3 className="mt-6 text-sm text-gray-500">
-                    <a href={callout.href}>
+                    <a href={callout.href} target="_blank">
                       <span className="absolute inset-0" />
                       {callout.name}
                     </a>
