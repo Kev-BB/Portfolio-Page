@@ -2,7 +2,7 @@ export default function Header() {
   return (
     <div className="header">
       <div className="relative isolate px-6 pt-14 lg:px-8 h-screen">
-        <div className="mr-auto max-w-6xl py-32 sm:py-48 lg:py-56">
+        <div className="mr-auto max-w-6xl py-32 sm:py-40 lg:py-48">
           <div className="text-start">
             <h1 className="text-6xl font-bold tracking-tight text-gray-200 sm:text-8xl">
               Hi I'm Kevin a Front-End Developer
