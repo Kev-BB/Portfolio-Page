@@ -5,7 +5,7 @@ export default function Footer(){
   return (
     <footer className="bg-gray-800 text-gray-400">
   <div className="container px-5 py-4 flex flex-col md:flex-row ">
-    <div className="flex-3">
+    <div className="flex-1">
       <img className="h-10 w-auto" src="kbb-logo.svg"/>
     </div>
     <div className="flex-1 mt-4 md:mt-0">
