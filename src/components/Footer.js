@@ -5,7 +5,7 @@ export default function Footer(){
   return (
     <footer className="bg-gray-800 text-gray-400">
   <div className="container px-5 py-4 flex flex-col md:flex-row ">
-    <div className="flex-1">
+    <div className="flex-2">
       <img className="h-10 w-auto" src="kbb-logo.svg"/>
     </div>
     <div className="flex-1 mt-4 md:mt-0">
@@ -19,7 +19,7 @@ export default function Footer(){
         </ul>
       </nav>
     </div>
-    <div className="flex-2 mt-4 md:mt-0 ">
+    <div className="flex-3 mt-4 md:mt-0 ">
     <p className="text-sm">Follow me on social media:</p>
       <div className="flex mt-2 ">
         <a href="https://github.com/Kev-BB" target="_blank" className="mr-2"><FaGithubSquare className="text-3xl hover:fill-gray-900"/></a>
@@ -32,4 +32,3 @@ export default function Footer(){
 
   )
 }
-
