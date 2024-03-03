@@ -15,11 +15,11 @@ const callouts = [
       href: 'https://logos-sphere.vercel.app/',
     },
     {
-      name: 'GitTrailBlazer',
+      name: 'Git-Trailblazer',
       description: "Github User Search",
       imageSrc: 'GitTrailBlazer.png',
       imageAlt: 'App for searching github users',
-      href: 'https://kev-bb.github.io/Google-Landing-Page/',
+      href: 'https://git-trailblazer.vercel.app/',
     },
   ]
   

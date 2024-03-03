@@ -3,4 +3,4 @@ This repository contains the source code and assets for my personal portfolio we
 # Built With
 - Next.js
 - React
-- Taiwind UI
+- Tailwind UI
